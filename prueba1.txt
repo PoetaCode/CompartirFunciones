@@ -1,1 +1,2 @@
 Esta es una prueba para la ejecucion del comando REBASE
+Esta es una segunda linea que se realiza dentro de la rama feature
